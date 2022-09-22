@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Akki4feb95
-- 👀 I’m interested in Salesforce development
-- 🌱 I’m currently learning Data Structure & Algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Akki4feb95/Akki4feb95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there
+My name is Akshay and I'm a Saleforce Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
