@@ -1,7 +1,3 @@
-👋 Hey there, 
-My name is Akshay and I'm a Saleforce Developer who loves to work with JavaScript technologies. 
-Right now my mind is focused on learning everything that is related to Web Development. 
-I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 # 💫 About Me:
 Hi, 👋 I'm Akshay Bhor<br>🔭 I’m currently working on Salesforce Technologies<br>🌱 I’m currently learning Al & ML<br>💬 Ask me about HTML, CSS, JavaScript, Apex, Java<br>⚡ Connect with me https://akshay-bhor.vercel.app/
 
@@ -21,8 +17,5 @@ Hi, 👋 I'm Akshay Bhor<br>🔭 I’m currently working on Salesforce Technolog
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
